@@ -12,12 +12,12 @@ import { Platform } from 'react-native';
 
 // Objeto con las credenciales del proyecto Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyCPJJ94GOX8Yc0pRALOeZ3DP5KkSL19rx0",
-  authDomain: "cineclip-78a3b.firebaseapp.com",
-  projectId: "cineclip-78a3b",
-  storageBucket: "cineclip-78a3b.firebasestorage.app",
-  messagingSenderId: "665364948782",
-  appId: "1:665364948782:web:23824b0852825746b23cbf"
+  apiKey: "AIzaSyDm0pemAW8nmm7_s2TSeMK-gKWud3NeAG4",
+authDomain: "cineclip-24e62.firebaseapp.com",
+projectId: "cineclip-24e62",
+storageBucket: "cineclip-24e62.firebasestorage.app",
+messagingSenderId: "733477124076",
+appId: "1:733477124076:web:35fb1d88eef041114db2c9"
 };
 
 // Inicializa la app de Firebase con la configuración anterior
